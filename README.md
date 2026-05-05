@@ -1,1 +1,0 @@
-# covid_india_tracker
